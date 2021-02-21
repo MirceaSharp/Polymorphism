@@ -1,0 +1,10 @@
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\bin\Debug\Polymorphism and inheritance.exe.config
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\bin\Debug\Polymorphism and inheritance.exe
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\bin\Debug\Polymorphism and inheritance.pdb
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\obj\Debug\Polymorphism and inheritance.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\obj\Debug\Polymorphism_and_inheritance.Form1.resources
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\obj\Debug\Polymorphism_and_inheritance.Properties.Resources.resources
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\obj\Debug\Polymorphism and inheritance.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\obj\Debug\Polymorphism and inheritance.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\obj\Debug\Polymorphism and inheritance.exe
+C:\Users\mirce\source\repos\Polymorphism and inheritance\Polymorphism and inheritance\obj\Debug\Polymorphism and inheritance.pdb
